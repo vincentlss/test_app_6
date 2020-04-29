@@ -1,3 +1,3 @@
 # README
 
-My First Ruby On Rail Project
+First Test Repo Ever
